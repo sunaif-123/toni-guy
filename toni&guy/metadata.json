@@ -1,0 +1,6 @@
+{
+  "name": "TONI&GUY Mangalore",
+  "description": "Premium luxury hair salon website for TONI&GUY Mangalore in Attavar, Mangaluru featuring contemporary styling, hair colour artistry, treatments, portfolio gallery, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
